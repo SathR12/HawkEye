@@ -21,9 +21,6 @@ Frame with debug mode (outlines contours)
 
 
 
-
-
-
 ## Dependencies
 
 - OpenCV
@@ -34,6 +31,12 @@ Frame with debug mode (outlines contours)
 - customtkinter 
 - time
 - sys
+
+## Credits
+
+https://github.com/TomSchimansky/CustomTkinter
+
+
 
 
 ## Testing in-progreess 
