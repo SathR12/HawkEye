@@ -39,6 +39,6 @@ https://github.com/TomSchimansky/CustomTkinter
 
 
 
-## Testing in-progreess 
+## Testing in-progress 
 
 Still need to add and modify websocket handlers... 
