@@ -23,6 +23,8 @@ Frame with debug mode (outlines contours)
 
 ## Dependencies
 
+WORKS ONLY ON WINDOWS. Unix version to come out soon. 
+
 - OpenCV
 - Numpy
 - Os
